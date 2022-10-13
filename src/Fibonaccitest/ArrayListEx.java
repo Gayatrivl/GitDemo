@@ -14,7 +14,7 @@ public class ArrayListEx {
 		ArrayList<String> cars = new ArrayList<String>();
 		ArrayList<Integer> myNumbers = new ArrayList<Integer>();
 		
-		
+		cars.add("Alto");
 	    cars.add("Volvo");
 	    cars.add("BMW");
 	    cars.add("Ford");
